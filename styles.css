@@ -1,0 +1,35 @@
+.menubar {
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid black;
+    margin: 18px;
+    padding: 18px;
+    color: yellow;
+}
+
+.aboutme {
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 7px;
+    
+}
+
+img {
+    width: 200px;
+    border:15px solid blue;
+    
+}
+
+body {
+    background-color:black;
+     color:pink;
+}
+.posts{
+   border:10px solid blue;
+    
+}
+.friends{
+   border:15px groove red;
+}
